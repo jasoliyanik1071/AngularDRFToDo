@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DRFToDoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.13.
@@ -28,4 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
 # AngularDRFToDo
->>>>>>> 5a5366e9a76aea60106b438f2bc8da3108b59ac3
+
+
